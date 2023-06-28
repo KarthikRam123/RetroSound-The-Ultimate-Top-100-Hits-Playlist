@@ -4,8 +4,8 @@ The Billboard Top 100 Playlist Creator is a Python project that allows users to 
 
 Key Features:
 
-Web scraping of Billboard Hot 100 chart to fetch song names.
-Authentication with Spotify API using Spotipy library.
-Searching and adding tracks to a new private playlist in Spotify.
-Handling cases where a song is not found in Spotify.
-User input for selecting the desired date of the Billboard chart.
+1.Web scraping of Billboard Hot 100 chart to fetch song names.
+2.Authentication with Spotify API using Spotipy library.
+3.Searching and adding tracks to a new private playlist in Spotify.
+4.Handling cases where a song is not found in Spotify.
+5.User input for selecting the desired date of the Billboard chart.
